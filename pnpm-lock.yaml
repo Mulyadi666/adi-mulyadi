@@ -26,9 +26,6 @@ importers:
       '@types/react-dom':
         specifier: ^19.1.2
         version: 19.1.2(@types/react@19.1.2)
-      astro:
-        specifier: ^5.11.0
-        version: 5.11.0(@types/node@24.0.10)(jiti@2.4.2)(lightningcss@1.29.2)(rollup@4.40.0)(typescript@5.8.3)
       astro-loading-indicator:
         specifier: ^0.7.0
         version: 0.7.0(astro@5.11.0(@types/node@24.0.10)(jiti@2.4.2)(lightningcss@1.29.2)(rollup@4.40.0)(typescript@5.8.3))
@@ -54,6 +51,9 @@ importers:
       '@tailwindcss/typography':
         specifier: ^0.5.16
         version: 0.5.16(tailwindcss@4.1.4)
+      astro:
+        specifier: ^5.11.0
+        version: 5.11.0(@types/node@24.0.10)(jiti@2.4.2)(lightningcss@1.29.2)(rollup@4.40.0)(typescript@5.8.3)
 
 packages:
 
